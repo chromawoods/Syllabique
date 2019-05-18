@@ -14,7 +14,7 @@ Want to use Syllabique in your own project? Sure! It consists of a single ES6 mo
 None of the options are required.
 
 Attribute | Type | Description | Default value
-- | - | - | -
+--- | --- | --- | ---
 syllables | Array of strings | The syllables that will make up the generated words. | `['ba', 'ra', 'cu', 'da', 'in', 'the', 'sea']`
 minWordSyllables | Integer number | The minimum number of syllables required in a generated word. | `2`
 maxWordSyllables | Integer number | The maximum number of syllables that a generated word can have. | `4`
