@@ -1,5 +1,5 @@
 # Syllabique
-Syllabique is a small script that composes words out of a list of syllables. Using different sets of syllables can create very different feeling gibberish-languages. Try it out yourself and experiment. [See the examples](https://codepen.io/chromawoods/project/editor/AjVzwK) for inspiration!
+Syllabique is a small script that composes words out of a list of syllables. Using different sets of syllables can create very different feeling gibberish-languages. Try it out yourself and experiment. [See the examples](https://weber.nu/dev/syllabique) for inspiration!
 
 ## For developers
 Want to use Syllabique in your own project? Sure! It consists of a single ES6 module, so if you need broad support you better run it through a transpiler or something.
